@@ -1,3 +1,5 @@
+## DATA MINING
+
 Data Mining example dataset.
 In this repository there are three different examples of machine learning techniques based on R. The main library used is CARET, which provides a very clean way to control and tune the parameters of the model. In detail we have addressed three different problems: two of regression and a classification problem.
 
